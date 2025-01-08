@@ -1,0 +1,21 @@
+[ {
+  "timezone" : "(GMT+10:00) Canberra, Melbourne, Sydney",
+  "nextTransition" : 0,
+  "transitionDirection" : -1,
+  "currentOffset" : 0
+}, {
+  "timezone" : "(GMT-05:00) Eastern Time (US & Canada)",
+  "nextTransition" : 0,
+  "transitionDirection" : -1,
+  "currentOffset" : 0
+}, {
+  "timezone" : "(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+  "nextTransition" : 0,
+  "transitionDirection" : -1,
+  "currentOffset" : 0
+}, {
+  "timezone" : "(GMT+00:00) London, Edinburgh, Dublin, Lisbon",
+  "nextTransition" : 0,
+  "transitionDirection" : -1,
+  "currentOffset" : 0
+} ]
